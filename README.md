@@ -2,13 +2,13 @@
 
 LearnMate is a Learning Management System (LMS) designed to enhance online video lectures with AI-powered assistance. It aims to address common challenges faced by students in online learning environments by providing real-time, context-aware support.
 
-![Project Image](https://github.com/qwchua/checkpoint/blob/main/frontend/public/logo2.png)
+![Project Image](https://github.com/qwchua/LearnMate/blob/main/frontend/public/logo2.png)
 
-![LearnMate Demo](https://github.com/qwchua/checkpoint/blob/main/assets/learnmate.gif)
+![LearnMate Demo](https://github.com/qwchua/LearnMate/blob/main/assets/learnmate.gif)
 
 ## Architecture
 
-![Architecture](https://github.com/qwchua/checkpoint/blob/main/assets/architecture.jpg)
+![Architecture](https://github.com/qwchua/LearnMate/blob/main/assets/architecture.jpg)
 
 ## Key Features
 
@@ -83,7 +83,7 @@ Run tests with:
 ```
 
 ## Documentation
-[Docs](https://github.com/qwchua/checkpoint/blob/main/assets/learnmate-docs.pdf)
+[Docs](https://github.com/qwchua/LearnMate/blob/main/assets/learnmate-docs.pdf)
 
 ## License
 
