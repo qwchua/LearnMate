@@ -1,0 +1,11 @@
+{
+  "name": "@src/course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.583.0",
+    "@aws-sdk/client-dynamodb": "^3.584.0",
+    "@aws-sdk/client-eventbridge": "^3.592.0",
+    "@aws-sdk/util-dynamodb": "^3.584.0"
+  }
+}

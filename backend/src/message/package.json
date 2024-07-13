@@ -1,0 +1,11 @@
+{
+  "name": "@src/message",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.540.0",
+    "@aws-sdk/client-ssm": "^3.590.0",
+    "@aws-sdk/util-dynamodb": "^3.540.0",
+    "openai": "^4.31.0"
+  }
+}
